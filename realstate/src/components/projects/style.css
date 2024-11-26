@@ -1,0 +1,26 @@
+.images{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.images-container{
+    height: 370px;
+    width: 280px;
+    flex-shrink: 0;
+}
+
+.arrows{
+    margin-top: 30px;
+    color: #1588e0;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.info-about{
+    bottom: 7%;
+    z-index: 1;
+}

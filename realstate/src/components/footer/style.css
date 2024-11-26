@@ -1,0 +1,13 @@
+
+.copyrightline{
+    border-top: 0.6px solid #737373;
+    text-align: center;
+    color: white;
+    font-size: small;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    width: 85%;
+    margin: auto;
+}
